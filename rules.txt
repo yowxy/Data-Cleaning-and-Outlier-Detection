@@ -1,0 +1,3 @@
+1.Mencari sebuah dataset bebas source nya 
+2. harus include Handling duplicate data
+3. Deteksi & handling outlier
